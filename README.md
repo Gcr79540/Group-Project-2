@@ -9,6 +9,7 @@
 5) John Carr 
 
 # Describing your dataset and what data it contains:
+JOHN
 
 
 # The 2 questions the team generated and why they are interesting and important:
@@ -18,7 +19,7 @@
 This question is important because it highlights regional and gender disparities in cancer risk and helps target public health interventions.
 This is important as it assists policymakers in allocating resources for cancer screening and education programs more effectively.
 
-Data Used:
+Data Used: MAGGIE
 
 
 
@@ -33,7 +34,7 @@ Data Used:
 This question uncovers patterns of inequality linked to pollution, environmental conditions, substandard housing, and limited education. It displays data during the pandemic, disproportionately affecting minority groups.
 This is important as it enforces plans to support reallocation of resources and upgraded living conditons.
 
-Data Used:
+Data Used:DANIEL
 
 
 
@@ -43,7 +44,7 @@ Data Used:
 
 # The manipulations applied to the data set as part of the analysis:
 
-
+DANIEL AND RASHI
 
 
 # Analysis and Results:
