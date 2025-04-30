@@ -44,9 +44,9 @@ Data Used:DANIEL
 
 # The manipulations applied to the data set as part of the analysis:
 
-DANIEL AND RASHI
+RASHI
 
 
-# Analysis and Results:
+# Analysis and Results: RASHI AND DANIEL
 
 Given the results from the data set, we find a higher average across states that are from the east compared to the west (given montana as an outlier) from how much darker it is. It also shows that males are more affected than females.  
