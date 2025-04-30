@@ -50,8 +50,7 @@ Data Used: DANIEL
 This question uncovers patterns of inequality linked to pollution, environmental conditions, substandard housing, and limited education. It displays data during the pandemic, disproportionately affecting minority groups.
 This is important as it enforces plans to support reallocation of resources and upgraded living conditons.
 
-Data Used:John
-
+Data Used: We analyzed asthma mortality rates across racial groups in the United States during the years 2019 through 2022 to uncover disparities in health outcomes. Specifically, we examined how the death rate from asthma—a condition that is generally manageable with proper medical care—varied among different racial populations. By isolating mortality data by race over this four-year span, which notably includes the COVID-19 pandemic period, we aimed to identify systemic inequities in healthcare access, treatment efficacy, and environmental risk factors. This approach allowed us to assess not only the direct impact of asthma on different communities, but also the broader social determinants of health that contribute to disproportionate outcomes. Our findings provide a data-driven foundation for addressing racial disparities in chronic disease management and for guiding targeted public health interventions.
 
 
 <img width="635" alt="Screenshot 2025-04-29 at 10 35 30 PM" src="https://github.com/user-attachments/assets/db5b578f-9764-460f-950c-be95bcdf7319" />
