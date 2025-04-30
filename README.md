@@ -13,21 +13,21 @@ The data set utilized here is the U.S. Chronic Disease Indicators data set that 
 
 ### Each row contiains
 
-### Time and place information: YearStart, YearEnd, LocationAbbr, Location
+Time and place information: YearStart, YearEnd, LocationAbbr, Location
 
-### Topic-related fields include: Topic and Question and their respective IDs
+Topic-related fields include: Topic and Question and their respective IDs
 
-### Measurement values: DataValue, DataValueType, DataValueUnit, and statistical limits like LowConfidenceLimit and HighConfidenceLimit
+Measurement values: DataValue, DataValueType, DataValueUnit, and statistical limits like LowConfidenceLimit and HighConfidenceLimit
 
-### Demographic stratifications: Including StratificationCategory1 and Stratification1 (for instance, gender and
+Demographic stratifications: Including StratificationCategory1 and Stratification1 (for instance, gender and
 
-### Geographic information: e.g., LocationID and Geolocation
+Geographic information: e.g., LocationID and Geolocation
 
-### Notes and metadata: such as DataSource, DataValueFootnote, and internal identifiers
+Notes and metadata: such as DataSource, DataValueFootnote, and internal identifiers
 
 Most of the columns are text (object type), number (int64 or float64), or a combination of both based on their information. For instance, LocationDesc and Topic are text fields and DataValue is a number field (float) with the primary statistical value. Other fields such as Response and StratificationCategory2 contain mostly null values and likely serve as placeholders for further data expansion. In general, this dataset offers a rich and precise picture of chronic disease trends in the United States over time, places, and groups of people and is thus appropriately suited to detect health disparities and guide public health policy.
 
-Would you like help summarizing this for a presentation o
+
 
 
 # The 2 questions the team generated and why they are interesting and important:
