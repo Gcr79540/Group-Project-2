@@ -8,10 +8,10 @@
 4) Rashi Modey [@rm53961](https://github.com/rm53961)
 5) John Carr [@jac08171](https://github.com/jac08171)
 
-## Describing your dataset and what data it contains:
+# Describing your dataset and what data it contains:
 The data set utilized here is the U.S. Chronic Disease Indicators data set that was retrieved from the Data.gov data repository of the U.S. government. This data set has 309,215 rows and 34 columns and captures each row of information on a distinct public health observation concerning chronic conditions of asthma, cancer, diabetes, etc. This data set is drawn from multiple data sources such as the Behavioral Risk Factor Surveillance System (BRFSS) and U.S. Cancer Statistics.
 
-### Each row contiains
+## Each row contiains
 
 Time and place information: YearStart, YearEnd, LocationAbbr, Location
 
