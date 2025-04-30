@@ -41,11 +41,11 @@ Data Used:
 
 
 
-**The manipulations applied to the data set as part of the analysis:**
+# The manipulations applied to the data set as part of the analysis:
 
 
 
 
-**Analysis and Results:**
+# Analysis and Results:
 
 Given the results from the data set, we find a higher average across states that are from the east compared to the west (given montana as an outlier) from how much darker it is. It also shows that males are more affected than females.  
