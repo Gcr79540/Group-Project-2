@@ -5,8 +5,8 @@
 1) Gabriela Rivera [@Gcr79540](https://github.com/Gcr79540)
 2) Daniel Yi [@dmy17582](https://github.com/dmy17582)
 3) Maggie Craig [@Maggiecraig108](https://github.com/Maggiecraig108)
-4) Rashi Modey [@rm53961](https://github.com/rm53961)
-5) John Carr [@jac08171](https://github.com/jac08171)
+4) Rashi Modey [@rm53961](https://github.com/rm53961/Project-2)
+5) John Carr [@jac08171](https://github.com/jac08171/Group-Project-2/)
 
 # Our Dataset and What it Contains:
 The data set utilized here is the U.S. Chronic Disease Indicators data set that was retrieved from the Data.gov data repository of the U.S. government. This data set has 309,215 rows and 34 columns and captures each row of information on a distinct public health observation concerning chronic conditions of asthma, cancer, diabetes, etc. This data set is drawn from multiple data sources such as the Behavioral Risk Factor Surveillance System (BRFSS) and U.S. Cancer Statistics.
