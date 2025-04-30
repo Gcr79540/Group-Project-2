@@ -62,7 +62,7 @@ Data Used:DANIEL
 
 # Data Manipulation:
 
-We did not need to manipulate any of our data sets in Excel due to the already organized nature of our files. No sorting or grouping was necessary. We simply filtered our data in Tableau based on the time period we needed the data from as well as other variables. 
+We did not need to manipulate any of our data sets in Excel due to the already organized nature of our files. Sorting and grouping were not necessary, as the data was well prepared. We simply filtered our data in Tableau based on the time period we needed the data from as well as other variables. 
 
 
 # Analysis and Results: 
