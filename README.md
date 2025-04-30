@@ -30,7 +30,7 @@ Most of the columns are text (object type), number (int64 or float64), or a comb
 
 
 
-# The 2 questions the team generated and why they are interesting and important:
+# Our Two Questions and their Relevance
 
 **How do rates of invasive cancer incidence vary by state and gender in 2015?**
 
