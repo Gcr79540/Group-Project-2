@@ -40,6 +40,7 @@ This question is important because it highlights regional and gender disparities
 This is important as it assists policymakers in allocating resources for cancer screening and education programs more effectively.
 
 ### Data Used: 
+We analyzed invasive cancer incidence rates across U.S. states in the year 2015, with a specific focus on gender, to better understand geographic and demographic disparities in cancer risk. Invasive cancer, which refers to cancers that have spread beyond the original tissue, is a major public health concern—and its incidence can be influenced by a variety of factors including access to screening, environmental exposures, and lifestyle behaviors. By comparing rates between males and females across all 50 states, we aimed to highlight patterns that may point to underlying inequities in prevention and early detection efforts. This analysis offers insight into how gender and geography intersect to shape health outcomes, and serves as a basis for more targeted cancer awareness, diagnostic access, and policy interventions aimed at reducing the burden of cancer across diverse populations.
 
 
 <img width="669" alt="Screenshot 2025-04-29 at 10 34 34 PM" src="https://github.com/user-attachments/assets/a0778ac5-070b-41d4-b36e-42bd1cb4fb4b" />
