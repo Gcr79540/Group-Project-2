@@ -72,3 +72,6 @@ Given the results from the Cancer Incidence data set, from 2015 to 2022, this ex
 
 The analysis of asthma mortality data from 2019 to 2022 reveals a concerning trend where black individuals experienced significantly higher rates of asthma-related deaths compared to all other groups. This disparity remained consistent over 4 years, indicating a systemic and persistent public health issue rather than an anomaly. Asthma is usually a manageable chronic condition when diagnosed early and treated effectively. Yet, for Black communities, mortality rates remain disproportionately high, which could be sign of more than just medical issues. These numbers suggest longstanding inequities in social determinants of health, with contributing factors such as structural barriers, environmental racism, economic stressors, or delayed diagnosis. With the pandemic particularly, these disparities may have been intensified. There must be targeted interventions that expand education and screening, improve air quality, and ensure equitable healthcare access.
 
+# Tableau Packaged Workbook Question 2: 
+
+<a href = "https://github.com/Gcr79540/Group-Project-2/blob/3a8dc79f36a768015212622a03f804960ebdbc00/MISTProject2_Question2.twbx" >Question 2</a></ul>
