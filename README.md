@@ -37,9 +37,7 @@ Most of the columns are text (object type), number (int64 or float64), or a comb
 This question is important because it highlights regional and gender disparities in cancer risk and helps target public health interventions.
 This is important as it assists policymakers in allocating resources for cancer screening and education programs more effectively.
 
-Data Used: MAGGIE
-
-
+Data Used: DANIEL
 
 <img width="669" alt="Screenshot 2025-04-29 at 10 34 34 PM" src="https://github.com/user-attachments/assets/a0778ac5-070b-41d4-b36e-42bd1cb4fb4b" />
 
@@ -52,7 +50,7 @@ Data Used: MAGGIE
 This question uncovers patterns of inequality linked to pollution, environmental conditions, substandard housing, and limited education. It displays data during the pandemic, disproportionately affecting minority groups.
 This is important as it enforces plans to support reallocation of resources and upgraded living conditons.
 
-Data Used:DANIEL
+Data Used:John
 
 
 
