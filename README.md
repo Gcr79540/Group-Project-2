@@ -2,7 +2,7 @@
 
 **Team Members:**
 
-1) Gabriela Rivera [@Gcr79540](https://github.com/Gcr79540)
+1) Gabriela Rivera [@Gcr79540](https://github.com/Gcr79540) https://github.com/Gcr79540/Group-Project-2/blob/main/README.md
 2) Daniel Yi [@dmy17582](https://github.com/dmy17582)
 3) Maggie Craig [@Maggiecraig108](https://github.com/Maggiecraig108)
 4) Rashi Modey [@rm53961](https://github.com/rm53961/Project-2)
