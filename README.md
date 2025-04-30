@@ -13,7 +13,7 @@ The data set utilized here is the U.S. Chronic Disease Indicators data set that 
 
 ## Each row contiains
 
-Time and place information: YearStart, YearEnd, LocationAbbr, Location
+**Time and place** information: YearStart, YearEnd, LocationAbbr, Location
 
 Topic-related fields include: Topic and Question and their respective IDs
 
