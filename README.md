@@ -26,7 +26,8 @@ Data Used:
 This question uncovers patterns of inequality linked to pollution, environmental conditions, substandard housing, and limited education. It displays data during the pandemic, disproportionately affecting minority groups.
 This is important as it enforces plans to support reallocation of resources and upgraded living conditons.
 Data Used:
-<img width="458" alt="Screenshot 2025-04-29 at 10 34 50 PM" src="https://github.com/user-attachments/assets/6e3abd42-d14d-498b-a3ee-4c624c08c6af" />
+<img width="635" alt="Screenshot 2025-04-29 at 10 35 30 PM" src="https://github.com/user-attachments/assets/db5b578f-9764-460f-950c-be95bcdf7319" />
+
 
 
 **The manipulations applied to the data set as part of the analysis:**
