@@ -1,4 +1,12 @@
-# Group-Project-2
+# MIST 4610 21484 Group 9 Project 2
+
+**Team Members:**
+
+1) Gabriela Rivera 
+2) Daniel Yi 
+3) Maggie Craig 
+4) Rashi Modey 
+5) John Carr 
 
 ## The 2 questions the team generated and why they are interesting and important:
 
