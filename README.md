@@ -32,7 +32,7 @@ Most of the columns are text (object type), number (int64 or float64), or a comb
 
 # Our Two Questions and their Relevance:
 
-##How do rates of invasive cancer incidence vary by state and gender in 2015?**
+## How do rates of invasive cancer incidence vary by state and gender in 2015?
 
 This question is important because it highlights regional and gender disparities in cancer risk and helps target public health interventions.
 This is important as it assists policymakers in allocating resources for cancer screening and education programs more effectively.
@@ -45,7 +45,7 @@ Data Used: DANIEL
 
 
 
-##How do rates of asthma mortality vary by race from the years of 2019-2022?**
+## How do rates of asthma mortality vary by race from the years of 2019-2022?
 
 This question uncovers patterns of inequality linked to pollution, environmental conditions, substandard housing, and limited education. It displays data during the pandemic, disproportionately affecting minority groups.
 This is important as it enforces plans to support reallocation of resources and upgraded living conditons.
