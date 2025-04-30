@@ -49,7 +49,7 @@ We did not need to manipulate any of our data sets in Excel due to the already o
 
 # Analysis and Results: RASHI AND DANIEL
 
-Given the results from the data set, we find a higher average across states that are from the east compared to the west (given montana as an outlier) from how much darker it is. It also shows that males are more affected than females.  
+Given the results from the data set, we find a higher average across states that are from the east compared to the west (given montana as an outlier) from how much darker it is. It also shows that males are more affected than females. Cancer incidence rates vary significantly by state and gender, pointing to potential gaps in screening access, environmental exposure, and healthcare availability.
 
 The analysis of asthma mortality data from 2019 to 2022 reveals a concerning trend where black individuals experienced significantly higher rates of asthma-related deaths compared to all other groups. This disparity remained consistent over 4 years, indicating a systemic and persistent public health issue rather than an anomaly. Asthma is usually a manageable chronic condition when diagnosed early and treated effectively. Yet, for Black communities, mortality rates remain disproportionately high, which could be sign of more than just medical issues. These numbers suggest longstanding inequities in social determinants of health, with contributing factors such as structural barriers, environmental racism, economic stressors, or delayed diagnosis. With the pandemic particularly, these disparities may have been intensified. There must be targeted interventions that expand education and screening, improve air quality, and ensure equitable healthcare access.
 
