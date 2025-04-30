@@ -65,7 +65,7 @@ Data Used:DANIEL
 We did not need to manipulate any of our data sets in Excel due to the already organized nature of our files. No sorting or grouping was necessary. We simply filtered our data in Tableau based on the time period we needed the data from as well as other variables. 
 
 
-# Analysis and Results: RASHI AND DANIEL
+# Analysis and Results: 
 
 Given the results from the data set, we find a higher average across states that are from the east compared to the west (given montana as an outlier) from how much darker it is. It also shows that males are more affected than females. Cancer incidence rates vary significantly by state and gender, pointing to potential gaps in screening access, environmental exposure, and healthcare availability.
 
