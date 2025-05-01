@@ -74,4 +74,6 @@ The analysis of asthma mortality data from 2019 to 2022 reveals a concerning tre
 
 # Tableau Packaged Workbooks: 
 
+<a href = "https://github.com/Gcr79540/Group-Project-2/blob/3bb6c6b0266ff2e0ab0b0742c9daa30adeb310ef/Cancer%20Incidence%20Question%201" >Question 1<a></u1>
+
 <a href = "https://github.com/Gcr79540/Group-Project-2/blob/3a8dc79f36a768015212622a03f804960ebdbc00/MISTProject2_Question2.twbx" >Question 2</a></ul>
